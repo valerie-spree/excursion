@@ -1,0 +1,49 @@
+html {
+  font-family: Helvetica;
+  background-color: black;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-weight: 300;
+  font-size: 42px
+}
+
+a{
+  color: aquamarine;
+  text-align: center;
+  font-size: 16px;
+}
+
+p{
+  font-size: 23px;
+  color: gray;
+}
+
+#video{
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
+
+#copyright{
+  text-align: right;
+}
+
+#tagline{
+  text-align: center;
+}
+
+#link{
+  text-align: center;
+}
